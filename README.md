@@ -1,4 +1,4 @@
-# Golang studt grpc client (NestJS)
+# Golang study grpc client (NestJS)
 
 Grpc 서버 링크
 https://github.com/seoyhaein/golang-study/blob/main/v1rpc/examples/grpc_servermain.go
